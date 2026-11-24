@@ -2,3 +2,6 @@ How to download: Enter this on your terminal: curl -fsSL "https://raw.githubuser
 Then execute this on your terminal:chmod +x sp1ng.sh
 And finnaly:
 ./sp1ng.sh
+
+
+curl -fsSL "https://raw.githubusercontent.com/sp1ngimsp1ng/Sp1ngtoolsforBash/refs/heads/main/amelie.sh" -o amelie.sh
